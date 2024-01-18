@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Chatty
+comment0.text=\r\n\ The\ Chatty\ interface\r\n\r\n\ @author\ Yang\ He\r\n\ @version\ 2023\r\n
+comment1.params=
+comment1.target=java.lang.String\ question()
+comment1.text=\r\n\ Ask\ a\ question\r\n\r\n\ @return\ the\ question\r\n
+comment2.params=question
+comment2.target=java.lang.String\ answer(java.lang.String)
+comment2.text=\r\n\ Answer\ a\ given\ question\r\n\r\n\ @param\ question\ A\ given\ question\r\n\ @return\ An\ answer\r\n
+numComments=3

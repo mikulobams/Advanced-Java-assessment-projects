@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Journal
+comment0.text=\r\n\ A\ simple\ model\ of\ a\ Journal\r\n\ \r\n\ @author\ \ (Michael\ Bamikunle)\r\n\ @version\ (1.00)\r\n
+comment1.params=title\ year\ month
+comment1.target=Journal(java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Create\ a\ Journal.\ \r\n\ \r\n\ @param\ title\ \ \ \ \ The\ title\ of\ the\ Journal.\r\n\ @param\ month\ \ \ \ \ The\ month\ when\ the\ Journal\ was\ published.\r\n\ @param\ year\ \ \ \ \ \ The\ year\ when\ the\ Journal\ was\ published.\ \ \ \ \ \r\n
+comment2.params=
+comment2.target=int\ getMonth()
+comment2.text=\r\n\ Get\ the\ month\ of\ the\ Journal\ when\ it\ was\ published\r\n\ \ \r\n\ @return\ \ The\ month\ of\ the\ Journal\ when\ it\ was\ published\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ Get\ the\ details\ of\ the\ Journal\r\n\ \ \r\n\ @return\ \ The\ details\ of\ the\ Journal\:\ \r\n\ \ \ \ \ \ \ \ \ \ the\ title,\ year\ and\ month\r\n
+comment4.params=obj
+comment4.target=boolean\ equals(java.lang.Object)
+comment4.text=\r\n\ Check\ if\ the\ Journal\ is\ the\ same\ as\ the\ given\ object.\r\n\ \r\n\ @param\ obj\ The\ given\ object.\r\n\ \r\n\ @return\ true\ if\ the\ Journal\ and\ the\ given\ object\ are\ the\ same\ \r\n\ \ \ \ \ \ \ \ \ or\ they\ have\ the\ same\ title,\ year\ and\ month;\ \r\n\ \ \ \ \ \ \ \ \ false\ otherwise\r\n
+comment5.params=month
+comment5.target=java.lang.String\ getMonthName(int)
+comment5.text=\r\n\ To\ get\ the\ first\ three\ letters\ of\ a\ given\ month's\ name\r\n\ \r\n\ @param\ month\ A\ given\ month\r\n\ @return\ \ \ The\ first\ three\ letters\ of\ the\ given\ month's\ name\r\n
+numComments=6

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Publication
+comment0.text=\r\n\ Publication\ is\ the\ superclass\ of\ library\ objects.\r\n\ It\ provides\ a\ foundation\ to\ hold\ the\ common\ fields\ of\r\n\ the\ above\ named\ library\ entries\ and\ more\r\n\r\n\ @author\ (Michael\ Bamikunle)\r\n\ @version\ (1.00)\r\n
+comment1.params=title\ year
+comment1.target=Publication(java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Publication\r\n
+comment2.params=
+comment2.target=java.lang.String\ getTitle()
+comment2.text=\r\n\ Get\ the\ title\ of\ the\ Publication\r\n\ \ \r\n\ @return\ \ The\ title\ of\ the\ Publication\r\n
+comment3.params=
+comment3.target=int\ getYear()
+comment3.text=\r\n\ Get\ the\ year\ the\ Publication\ was\ published\r\n\ \ \r\n\ @return\ \ The\ year\ when\ it\ was\ published\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ Get\ the\ details\ of\ the\ entry\r\n\ \ \r\n\ @return\ the\ title\ and\ year\ as\ a\ string\r\n
+comment5.params=obj
+comment5.target=boolean\ equals(java.lang.Object)
+comment5.text=\r\n\ Check\ if\ the\ Publication\ is\ the\ same\ as\ the\ given\ one.\r\n\ \r\n\ @param\ obj\ The\ given\ object.\r\n\ \r\n\ @return\ true\ if\ the\ Publication\ and\ the\ given\ object\ are\ the\ same\ \r\n\ \ \ \ \ \ \ \ \ or\ they\ have\ the\ same\ title\ and\ year;\ \r\n\ \ \ \ \ \ \ \ \ false\ otherwise\r\n
+numComments=6

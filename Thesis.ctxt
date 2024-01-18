@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Thesis
+comment0.text=\r\n\ A\ simple\ model\ of\ a\ Thesis\r\n\ \r\n\ @author\ \ (Michael\ Bamikunle)\r\n\ @version\ (1.00)\r\n
+comment1.params=title\ author\ year\ university
+comment1.target=Thesis(java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment1.text=\r\n\ Create\ a\ Thesis.\ \r\n\ \r\n\ @param\ title\ \ \ \ \ The\ title\ of\ the\ Thesis.\r\n\ @param\ author\ \ \ \ The\ title\ of\ the\ Thesis.\r\n\ @param\ year\ \ \ \ \ \ The\ year\ when\ the\ Thesis\ was\ published.\r\n\ @param\ university\ \ \ \ The\ university\ in\ which\ the\ Thesis\ was\ defended\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Get\ the\ details\ of\ the\ Thesis\r\n\ \ \r\n\ @return\ \ The\ details\ of\ the\ Thesis\ including\ \r\n\ \ \ \ \ \ \ \ \ \ the\ title,\ author,\ publisher(University)\ and\ year\r\n
+comment3.params=obj
+comment3.target=boolean\ equals(java.lang.Object)
+comment3.text=\r\n\ Check\ if\ the\ Thesis\ is\ the\ same\ as\ the\ given\ object.\r\n\ \r\n\ @param\ obj\ The\ given\ object.\r\n\ \r\n\ @return\ true\ if\ the\ Thesis\ and\ the\ given\ object\ are\ the\ same\ \r\n\ \ \ \ \ \ \ \ \ or\ they\ have\ the\ same\ title,\ author,\ University\ and\ year;\ \r\n\ \ \ \ \ \ \ \ \ false\ otherwise\r\n
+comment4.params=
+comment4.target=java.lang.String\ getUniversity()
+comment4.text=\r\n\ Get\ the\ name\ of\ the\ university\ the\ Thesis\ was\ published\ in\r\n\ \r\n\ @return\ String\ name\ of\ the\ university\r\n
+numComments=5

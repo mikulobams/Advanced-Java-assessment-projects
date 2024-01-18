@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Database
+comment0.text=\r\n\ A\ database\ for\ a\ collection\ of\ Publications,\ \r\n\ e.g.\ books,\ journals,\ Thesis\ etc.\r\n\ \r\n\ @author\ \ (Michael\ Bamikunle)\r\n\ @version\ (1.00)\r\n
+comment1.params=
+comment1.target=Database()
+comment1.text=\r\n\ Construct\ a\ new\ database\r\n
+comment2.params=newPublication
+comment2.target=void\ addPublication(Publication)
+comment2.text=\r\n\ Add\ a\ non-null\ Publication\r\n\ that\ is\ not\ already\ in\ the\ database\r\n\ \r\n\ @param\ newPublication\ to\ be\ added\r\n
+comment3.params=
+comment3.target=int\ getTotal()
+comment3.text=\r\n\ Get\ the\ total\ number\ of\ publications\ \r\n\ \r\n\ @return\ The\ total\ number\ of\ publications\ \ \r\n
+comment4.params=
+comment4.target=void\ print()
+comment4.text=\ \r\n\ \r\n\ Print\ the\ details\ of\ all\ publications\r\n
+comment5.params=uni\ yr
+comment5.target=java.util.List\ getThesesList(java.lang.String,\ int)
+comment5.text=\r\n\ Returns\ a\ list\ of\ all\ Theses\ published\ in\r\n\ the\ specified\ year\ by\ the\ specified\ university\r\n\ \r\n\ @param\ uni\ Universtiy\ yr\ year\ to\ be\ specified\r\n
+comment6.params=
+comment6.target=void\ printSortedPublications()
+comment6.text=\r\n\ This\ method\ prints\ a\ sorted\ output\ of\ all\ publications\ \r\n\ in\ the\ publication\ list.\r\n\r\n\ It\ calls\ a\ Collections.sort()\ method\ \r\n\ on\ the\ Publication\ List\ using\ the\ comparator\ interface's\r\n\ static\ methods\ thereby\ ordering\ the\ list\ based\ on\ \r\n\ Class\ type\ and\ title\ of\ Publication\r\n
+numComments=7

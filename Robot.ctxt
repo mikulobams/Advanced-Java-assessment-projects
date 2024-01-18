@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Robot
+comment0.text=\r\n\ The\ Robot\ class\ represents\ a\ robot.\r\n\ It\ holds\ relevant\ details\ of\ a\ robot.\r\n\r\n\ @author\ Yang\ He\r\n\ @version\ 2023\r\n
+comment1.params=name
+comment1.target=Robot(java.lang.String)
+comment1.text=\r\n\ Create\ a\ new\ robot\ with\ a\ given\ name\r\n\r\n\ @param\ name\ A\ given\ name\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Get\ the\ robot's\ name\r\n\r\n\ @return\ The\ robot's\ name\r\n
+comment3.params=
+comment3.target=boolean\ hasAI()
+comment3.text=\r\n\ Check\ if\ the\ robot\ has\ AI\r\n\r\n\ @return\ true\ if\ the\ robot\ has\ AI,\ \r\n\ \ \ \ \ \ \ \ \ false\ otherwise\r\n
+comment4.params=obj
+comment4.target=boolean\ equals(java.lang.Object)
+comment4.text=\r\n\ @param\ \ obj\ A\ given\ object\r\n\ @return\ true\ if\ obj\ is\ a\ Robot\ with\ the\ same\ name\ as\ the\ robot,\r\n\ \ \ \ \ \ \ \ \ false\ otherwise\r\n
+numComments=5
